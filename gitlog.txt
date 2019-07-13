@@ -1,0 +1,383 @@
+commit 7c19673e064f986c025db59bca83d06dc65397fb
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Mon Apr 15 11:20:46 2019 -0600
+
+    Final Commit: Added Comments and refactored minor issues
+
+commit be2e20cb2c32fda8949ffe5861bcf85f4bedda33
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Mon Apr 15 10:53:10 2019 -0600
+
+    Added random movement to computer players
+
+commit afa4a149c0c40a2e6e55ef6ad31781c5b1943284
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Apr 14 15:26:28 2019 -0600
+
+    Got human player to move
+
+commit 1406c2a66310dd22427c3138b95cca887208f377
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Apr 14 14:38:11 2019 -0600
+
+    Added highlighting players potential targets
+
+commit e59576ee0cd49e3e7733d430e6722b67e5449557
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Apr 14 13:56:27 2019 -0600
+
+    Display Name and Display Random Roll added
+
+commit 5e6df9c484bfa2ead4d2c414361d20a22b089b08
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 13 10:35:22 2019 -0600
+
+    Final Commit: Added Comments
+
+commit f1962413aaeb4fd8ee167cc9dadcf1a40f298bec
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 13 10:28:23 2019 -0600
+
+    Refactored Control GUI because it was interfering with joining with the board, added the control GUI to frame
+
+commit e4584a053f15a7a14a7573c90f4c454b09071341
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 13 09:34:15 2019 -0600
+
+    Added the player card display
+
+commit f97780000770dbb53b42ab6f2fca52836264fefb
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Fri Apr 12 16:49:30 2019 -0600
+
+    Newest version
+
+commit 27ee990fb0a3385c96732a2b3b9f617df62d3e2f
+Author: Brennan Guthals <bcguthals@mines.edu>
+Date:   Tue Apr 9 12:08:44 2019 -0600
+
+    Added splash screen GUI
+
+commit 1e61a20a4a5294efc2a114e4473ccd4ed2ce9f79
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 17:00:54 2019 -0600
+
+    Final Commit
+
+commit 5d35d36d637326157ecfb220a46d24d91e3a34d0
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 16:49:13 2019 -0600
+
+    Added Detective Notes
+
+commit 780ae18658f973c8738f26885181bd1d8ea56167
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 16:02:45 2019 -0600
+
+    Added Room labels
+
+commit b99a1d45f4a9a1e9236f008e9edb6101b403b010
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 15:34:38 2019 -0600
+
+    Added file exit
+
+commit 59fb17934d7a3e8c01d2d002f44691a514a40a8e
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 15:13:48 2019 -0600
+
+    Doors and Players Display
+
+commit a70f624eb81182fc475c74013ba0e009b6f1f3de
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 14:46:14 2019 -0600
+
+    Added Drawing Cells
+
+commit 9a127df3c7d1a1734fce7fe38cff11f86e769ceb
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 11:37:24 2019 -0600
+
+    Final commit
+
+commit e6a660d77ad4b3f2fcaa6a24a1e93e258f38e732
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 11:31:33 2019 -0600
+
+    Completed Control GUI
+
+commit 1f208957149a3ea51978b88bf1c9092c61e46abb
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 10:59:26 2019 -0600
+
+    Added WhoseTurn box and dieRollbox
+
+commit 57191444052d7f118552674d5d3b66a8d709948a
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sat Apr 6 10:50:15 2019 -0600
+
+    Added control buttons
+
+commit 406b9f34bae66db18c4a4519f857acf199b8b88e
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 19:37:39 2019 -0600
+
+    Final commit for Clue Players Part 2
+
+commit 636b9a295ce8721e77ff31c3253d9c42503eae4f
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 19:33:20 2019 -0600
+
+    Disprove and Handle suggestion tests passed
+
+commit c73e1ece2cfd2226e1b076735cc2327e2a8b911d
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 19:31:05 2019 -0600
+
+    Make and Create suggestion tests passed
+
+commit 4645856828d7cf1e8d8b50831f2ad5d88ae536b1
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 19:20:56 2019 -0600
+
+    Target tests passed successfully
+
+commit d402dcc89193d2b63a7a7dcd9b3ed784ae59048a
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 19:09:01 2019 -0600
+
+    Implemented all functions for functionality
+
+commit 80d8afc68188beb607fc24508b56ad93bc6f789c
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Wed Apr 3 16:12:30 2019 -0600
+
+    creatSuggestion test now passes
+
+commit 4db418daee0b29b0dcd997f090f485566c7ec213
+Author: Brennan Guthals <bcguthals@mines.edu>
+Date:   Tue Apr 2 12:16:19 2019 -0600
+
+    Made createSuggestion function
+
+commit 5e174dc745c61eef4d939043227c4f6aa37878ac
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Tue Apr 2 00:56:05 2019 -0600
+
+    Added last of tests, began on implementing functions
+
+commit 675d0de62825b14eca7bf0f99bbecc330e21fa17
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Sun Mar 31 18:49:30 2019 -0600
+
+    Added test for making accusations
+
+commit a2003944f78963d5f4fee08c7af025dafc24b077
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Sun Mar 31 16:02:12 2019 -0600
+
+    Added target tests
+
+commit 9fc5b1ebd43ee302ac2129ac1ff0b8b002aa979c
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Fri Mar 29 18:17:49 2019 -0600
+
+    Added test functions
+
+commit eab284eea3b533c6e3da6c5b44b2ff5048c75afc
+Author: Brennan Guthals <bcguthals@mymail.mines.edu>
+Date:   Fri Mar 29 18:13:54 2019 -0600
+
+    Added gameActionTests class
+
+commit c0df3d3160aab3b13cf55535bf1f3ceb3b2148df
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 14:01:03 2019 -0600
+
+    Final Commit
+
+commit 9d7233d394f686d17ffcdedf869bda9b878ab9d0
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 13:56:50 2019 -0600
+
+    Deck dealing tests past
+
+commit 50ede13e64738c8cfbd80dc92d99560bfd34e47c
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 13:06:52 2019 -0600
+
+    Passed deck creation tests
+
+commit df9bb4ccbf587fb440100cc9b23d1a3ba4b122ba
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 12:02:19 2019 -0600
+
+    Added loading weaponConfig
+
+commit 267b57df2ab0f2e85be56c30ac0f623534b2153d
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 11:50:13 2019 -0600
+
+    Changed player Config to add each person as a card to the deck
+
+commit 0b7b0c6c6ec0508bec969ebea6666e933c6892f5
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 11:46:04 2019 -0600
+
+    All Player tests pass
+
+commit 35b6e99239d40510a059f1a728be78a837ea76a2
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 11:37:06 2019 -0600
+
+    Refactored so starting loc could be more than length 1
+
+commit d393e9d934aca4cdf9c61372fda474e67038036b
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 11:30:00 2019 -0600
+
+    Refactored configPeopleFiles
+
+commit b2d620010fb52b4145e39e9f7aa6ba34e9fc06a1
+Author: Nicholas Wenzel <nwenzel@mymail.mines.edu>
+Date:   Sun Mar 24 11:14:40 2019 -0600
+
+    Enabled loading of a person from a text file
+
+commit 2e8931715dea0374cc692ff44fc06305baff8471
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Fri Mar 22 08:39:22 2019 -0600
+
+    Added player text file
+
+commit 101a01d99990b417dc7fb7c09ce8782fc77f7e88
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Thu Mar 21 17:51:23 2019 -0600
+
+    Updated board
+
+commit b4cc57d3fd604c9c25e2d864ace537a0b3bf32f7
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Thu Mar 21 16:50:34 2019 -0600
+
+    Tests
+
+commit 35440b12af37cf2bcd8d9544357e81845595000c
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Mon Mar 18 11:49:02 2019 -0600
+
+    Testing
+
+commit 5659d3c3bd5f0a619aa8703286780bea34f2fb2e
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 13 17:53:42 2019 -0600
+
+    Added Functionality so tests pass
+
+commit f3632e4f2d49c2bbc6a3d9fbb262eda166affe2f
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 15:22:50 2019 -0600
+
+    Final Commit
+
+commit ba2a6fea66574f1ac4a373fc95bb7b908df869cb
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 15:16:50 2019 -0600
+
+    Final Commit
+
+commit fa094aa8d4f804e345abe449852831bec815d54b
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 15:13:00 2019 -0600
+
+    Targets tests
+
+commit 1d3b8067238e64fa3f59777269a4155cafeec747
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 13:52:16 2019 -0600
+
+    Testing door adj
+
+commit aac1266d936f095804c598af784e29b398a0ba72
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 13:44:30 2019 -0600
+
+    Testing spaces next to doorways
+
+commit 5c8cef803f397b8edbe04e0a9c3ef647dfab03d9
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 12:53:11 2019 -0600
+
+    Added adj tests for each side of the board
+
+commit a7386d54edc742017834c824a283f082d4794f06
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 12:44:16 2019 -0600
+
+    Added room adj calcs
+
+commit cd96369f790f6fc0cdd7a5b70d8cb0822966c601
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 12:25:36 2019 -0600
+
+    Added Colored Map
+
+commit 8aad0064f5a1896851c6881b723c0c37e96161aa
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Sun Mar 10 12:23:33 2019 -0600
+
+    Initial Commit
+
+commit 643e5b10f9aaa81180fc1e78947746f4e3d95316
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 20:28:42 2019 -0700
+
+    Final Commit - All tests pass
+
+commit c51bff3060c29472c468520143c4d65703f8c24e
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 19:04:41 2019 -0700
+
+    Added exception for bad config file functionality
+
+commit c8c2be03f2d566c4cc03bdcb1a975dff821563d5
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 18:49:40 2019 -0700
+
+    Added getInitial functionality.
+
+commit 803a2f21e04e63a51237cd658da3c5099bee889c
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 18:26:03 2019 -0700
+
+    Added doorDirection and isDoor functionality
+
+commit 4aa98e32559d33bef6db667d6bb32778e853605d
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 17:16:45 2019 -0700
+
+    Added functionality to loadBoardConfig
+
+commit fe5ea0109af21a1fd0e8c2a8df686f261de29bf5
+Author: Nicholas Wenzel <nwenzel@mymail.mined.edu>
+Date:   Wed Mar 6 16:59:14 2019 -0700
+
+    Added functionality to getLegend
+
+commit 9348ec5cb489381e9efbc71518ce049ee1a78cf3
+Author: Nicholas Wenzel <nwenzel@mines.edu>
+Date:   Tue Mar 5 12:14:35 2019 -0700
+
+    Made stubs for functions in BoardCell and Board
+
+commit 193f05f2c9c071a3de00f8b207374f8605be2fd7
+Author: Nicholas Wenzel <nwenzel@mines.edu>
+Date:   Tue Mar 5 11:56:47 2019 -0700
+
+    Initial Commit
+
+commit c9c1107fc5c919949d3159084939c208f47da0ce
+Author: nicwenzel26 <45695160+nicwenzel26@users.noreply.github.com>
+Date:   Tue Mar 5 11:46:41 2019 -0700
+
+    Initial commit

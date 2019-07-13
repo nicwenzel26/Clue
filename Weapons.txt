@@ -1,0 +1,6 @@
+Revolver
+Rifle
+Sword
+Blaster
+Axe
+Knife

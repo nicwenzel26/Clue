@@ -1,0 +1,13 @@
+C, Cloak Room, Card
+G, Gallery, Card
+A, Archery Range, Card
+D, Drawing Room, Card
+I, Wine Cellar, Card
+S, Stables, Card
+R, Billiard Room, Card
+K, Kitchen, Card
+B, Ballroom, Card
+P, Parking Garage, Card
+L, Swimming Pool, Card
+W, Walkway, Other
+X, Closet, Other
